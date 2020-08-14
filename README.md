@@ -1,6 +1,6 @@
 # Projeto-Calculadora-de-IMC
 
-<h1 aling="center">
+<h1 align="center">
     <img alt="Calculadora de IMC" title="Calculadora" src="/img/print.jpg" widht="220px">
 </h1>
 
