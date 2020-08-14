@@ -4,7 +4,7 @@
     <img alt="Calculadora de IMC" title="Calculadora" src="/img/print.jpg" widht="220px">
 </h1>
 
-**Calculadora de IMC** é um projeto de uma página web para as pessoas poderem calcular seu imc e conferir como esta sua saúde.
+**Calculadora de IMC** é o projeto de uma página web para as pessoas poderem calcular seu imc e conferir como esta sua saúde.
 
 <hr>
 
