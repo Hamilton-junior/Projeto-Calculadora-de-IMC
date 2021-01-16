@@ -73,18 +73,15 @@ body {
 .reset {
   background: #fa9746;
 }
-.results-container div {
-  display: flex;
-}
 .results-container div h2 {
   font-size: 1rem;
   color: #88b9fe;
-  margin-bottom: 20px;
-  margin-right: 5px;
+  margin-bottom: 5px;
 }
 .results-container div p {
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: #2b468b;
+  margin-bottom: 10px;
 }
 
 @media (max-width: 768px) {

@@ -14,12 +14,11 @@
         <section class="calculator-container">
             <h1>Calculadora de IMC</h1>
             <label for="weight">Peso</label>
-            <input id="weight" type="number" name="weight" required placeholder="Digite seu peso">
+            <input id="weight" type="number" name="weight" required placeholder="Digite seu peso" data-input="weight">
             <label for="height">Altura</label>
-            <input id="height" type="number" name="height" required placeholder="Digite sua altura"> 
+            <input id="height" type="number" name="height" required placeholder="Digite sua altura" data-input="height"> 
             <div class="buttons">
-                <button class="calc" data-calc="
-                calculate">Calcular</button>
+                <button class="calc" data-calc="calculate">Calcular</button>
                 <button class="reset" data-calc="reset">Limpar</button>
             </div>
             <div class="results-container">
@@ -34,6 +33,6 @@
             </div>
         </section>
     </main>
-    <script src=""></script>
+    <script src="./assets/scripts/calculate.js"></script>
 </body>
 </html>
