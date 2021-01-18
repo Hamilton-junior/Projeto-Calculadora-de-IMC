@@ -37,5 +37,4 @@ export default function initResults() {
   buttonCalculate.addEventListener("click", imc);
   buttonReset.addEventListener("click", clearValues);
 
-  //colocar com o tootip <a href="https://br.freepik.com/vetores/pessoas">Pessoas vetor criado por pch.vector - br.freepik.com</a>
 }
